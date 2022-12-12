@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login app</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="enter_your_surname">Enter your Surname</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="second">Second</string>
+</resources>
